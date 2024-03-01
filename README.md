@@ -41,4 +41,4 @@
 
 - **What were the challenges in project development?**
   - Selecting appropriate features for analysis.
-  - Fine-tuning machine learning models, especially given that we are newbies this domain.
+  - Fine-tuning machine learning models, especially given that we are newbies in this domain.
